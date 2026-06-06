@@ -1,0 +1,4 @@
+,PR_AUC,ROC_AUC,best_thr,precision,recall,F1
+LogReg (baseline),0.1843,0.9641,0.9365,0.2859,0.5841,0.3839
+RandomForest,0.8721,0.9967,0.889,0.896,0.7473,0.8149
+XGBoost,0.8728,0.9975,0.9808,0.8984,0.7627,0.825
